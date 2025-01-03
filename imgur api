@@ -1,0 +1,30 @@
+Token Details
+Token Name
+Imgur - Postman Collection
+Access Token
+492f93fd4a2a52ad35c88b1140b13b4515b758f7
+Token Type
+bearer
+expires_in
+315360000
+scope
+refresh_token
+cd3ecac7d1dc2119f3bbe21ac9023bed48d866e4
+account_id
+187744883
+account_username
+paulor2811
+access_token_url
+https://api.imgur.com/oauth2/token
+client_id
+7a529a18246e04b
+client_secret
+f5aa2f014325445f4dade13c74ccb7ca03e961fd
+grant_type
+authorization_code
+password
+username
+client_authentication
+header
+timestamp
+1735925111048
